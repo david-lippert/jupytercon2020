@@ -1,13 +1,10 @@
----
-author:
-- 'David Lippert (Data engineer & intern program manager, Leidos)'
-- 
-subtitle: Jupyter in Education Poster
-title: How to become financially independent with interactive widgets
----
+Jupyter in Education Poster
+---------------------------
+How to become financially independent with interactive widgets
+==============================================================
+author - David Lippert (Data engineer & intern program manager, Leidos)
 
-![](media/cash.jpg){width="6.6402777777777775in"
-height="3.7333333333333334in"}
+![](media/cash.jpg)
 
 Introduction
 ============
@@ -36,8 +33,7 @@ money over time. When a student hits the play button they will see what
 happens to their money over 30 years if they invest \$1 a day then \$2 a
 day all the way up to \$20 a day.
 
-![](media/fireplay_widget.png){width="6.6402777777777775in"
-height="5.877083333333333in"}
+![](media/fireplay_widget.png)
 
 The second example is a simple FIRE calculator that allows you to enter
 several variables to determine when you can retire. The math is based on
@@ -49,7 +45,7 @@ financial independence***.
 The basic theory is that you should be able to live off the interest of
 that stash of money forever.
 
-![](media/firecalc_widget.png){width="6.822222222222222in" height="6.9984492563429574in"}
+![](media/firecalc_widget.png)
 --------------------------------------------------------------------------------
 
 Challenges
