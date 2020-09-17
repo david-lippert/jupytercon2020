@@ -6,8 +6,7 @@ subtitle: Jupyter in Education Poster
 title: How to become financially independent with interactive widgets
 ---
 
-![](media/cash.jpg){width="6.6402777777777775in"
-height="3.7333333333333334in"}
+![](media/cash.jpg)
 
 Introduction
 ============
